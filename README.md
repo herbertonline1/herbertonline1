@@ -9,6 +9,8 @@
 
 ![Herbert GitHub stats](https://github-readme-stats.vercel.app/api?username=Herbertonline1&show_icons=true&theme=dracula)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=herbertonline1)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Tecnologias que eu uso no meu dia
 
 <div style="display: inline_block"><br/>
@@ -18,4 +20,4 @@
     
 </div><br/>
 
-Apaixonado por tecnologia, estou cada vez mais me aprofundando no amplo mundo da programação
+Apaixonado por tecnologia estou cada vez mais me aprofundando no amplo mundo da programação
